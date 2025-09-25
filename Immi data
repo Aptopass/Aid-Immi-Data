@@ -1,0 +1,32 @@
+[
+  {
+    "username": "john123",
+    "password": "pass123",
+    "applications": [
+      {
+        "country": "Canada",
+        "program": "Express Entry",
+        "date": "2025-02-01",
+        "status": "Under Review"
+      },
+      {
+        "country": "Germany",
+        "program": "Blue Card",
+        "date": "2025-01-15",
+        "status": "Submitted"
+      }
+    ]
+  },
+  {
+    "username": "sara2025",
+    "password": "mypassword",
+    "applications": [
+      {
+        "country": "USA",
+        "program": "H1B Visa",
+        "date": "2025-03-01",
+        "status": "Approved"
+      }
+    ]
+  }
+]
