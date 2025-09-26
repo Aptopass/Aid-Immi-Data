@@ -1,49 +1,56 @@
 [
-    {
-        "username": "gurpreetkd",
-        "password": "securePass123",
-        "name": "Gurpreet Kaur Dadiala",
-        "dob": "1990-01-03",
-        "country": "India",
-        "candidateNumber": "87452319",
-        "applications": [
-            {
-                "country": "Canada",
-                "program": "Express Entry",
-                "applicationDate": "2024-11-05",
-                "status": "In Review"
-            },
-            {
-                "country": "Canada",
-                "program": "Provincial Nominee Program",
-                "applicationDate": "2025-04-01",
-                "status": "Pending Documents"
-            },
-            {
-                "country": "Canada",
-                "program": "Rural and Northern Immigration Pilot",
-                "applicationDate": "2025-09-11",
-                "status": "Submitted"
-            },
-            {
-                "country": "Canada",
-                "program": "Atlantic Immigration Program",
-                "applicationDate": "2024-11-28",
-                "status": "Approved"
-            },
-            {
-                "country": "Canada",
-                "program": "Agri-Food Pilot",
-                "applicationDate": "2025-03-19",
-                "status": "In Review"
-            },
-            {
-                "country": "Canada",
-                "program": "Caregiver Program",
-                "applicationDate": "2025-08-26",
-                "status": "Pending Documents"
-            }
-        ]
+  {
+    "username": "gurpreetkd",
+    "password": "securePass123",
+    "name": "Gurpreet Kaur Dadiala",
+    "dob": "1990-01-03",
+    "country": "India",
+    "candidateNumber": "87452319",
+    "applications": [
+      {
+        "country": "Canada",
+        "province": "Federal",
+        "program": "Express Entry",
+        "date": "2025-09-15",
+        "status": "Submitted"
+      },
+      {
+        "country": "Canada",
+        "province": "Ontario",
+        "program": "Ontario Immigrant Nominee Program (OINP)",
+        "date": "2025-05-21",
+        "status": "In Progress"
+      },
+      {
+        "country": "Canada",
+        "province": "Ontario",
+        "program": "RNIP - Timmins",
+        "date": "2025-01-10",
+        "status": "Under Review"
+      },
+      {
+        "country": "Canada",
+        "province": "British Columbia",
+        "program": "British Columbia Provincial Nominee Program (BC PNP)",
+        "date": "2024-12-18",
+        "status": "Submitted"
+      },
+      {
+        "country": "Canada",
+        "province": "Nova Scotia",
+        "program": "Atlantic Immigration Program",
+        "date": "2024-09-30",
+        "status": "Pending Documents"
+      },
+      {
+        "country": "Canada",
+        "province": "Ontario",
+        "program": "Caregiver Program",
+        "date": "2024-08-05",
+        "status": "Approved"
+      }
+    ]
+  
   
   },
   {
