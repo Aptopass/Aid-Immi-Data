@@ -1,105 +1,42 @@
 [
   {
-    "username": "user1",
-    "password": "pass1",
-    "name": "John Smith",
-    "dob": "1990-04-15",
+    "username": "gurpreet",
+    "password": "1234",
+    "name": "Gurpreet Kaur",
+    "dob": "1995-08-12",
     "country": "India",
+    "candidateNumber": "20250987",
     "applications": [
       {
         "country": "Canada",
         "province": "Ontario",
-        "program": "RNIP - Sault Ste. Marie",
-        "date": "2023-12-12",
+        "program": "OINP",
+        "date": "2025-06-12",
         "status": "Under Review"
       },
       {
         "country": "Canada",
-        "province": "Ontario",
-        "program": "RNIP - Timmins",
-        "date": "2023-10-06",
-        "status": "Under Review"
+        "province": "British Columbia",
+        "program": "BC PNP",
+        "date": "2025-08-01",
+        "status": "Submitted"
       }
     ]
   },
   {
-    "username": "user2",
-    "password": "pass2",
-    "name": "Amandeep Kaur",
-    "dob": "1987-07-21",
+    "username": "johnsmith",
+    "password": "5678",
+    "name": "John Smith",
+    "dob": "1990-03-22",
     "country": "Philippines",
+    "candidateNumber": "20251234",
     "applications": [
       {
         "country": "Canada",
         "province": "Manitoba",
-        "program": "RNIP - Brandon",
-        "date": "2024-05-06",
-        "status": "Under Review"
-      },
-      {
-        "country": "Canada",
-        "province": "British Columbia",
-        "program": "RNIP - West Kootenay (Trail, Castlegar, Rossland, Nelson)",
-        "date": "2023-07-22",
-        "status": "Rejected"
-      },
-      {
-        "country": "Canada",
-        "province": "Saskatchewan",
-        "program": "Saskatchewan Immigrant Nominee Program (SINP)",
-        "date": "2023-11-08",
-        "status": "Rejected"
-      },
-      {
-        "country": "Canada",
-        "province": "British Columbia",
-        "program": "British Columbia Provincial Nominee Program (BC PNP)",
-        "date": "2023-02-07",
-        "status": "Submitted"
-      },
-      {
-        "country": "Canada",
-        "province": "Northwest Territories",
-        "program": "Northwest Territories Nominee Program (NTNP)",
-        "date": "2024-09-10",
-        "status": "Rejected"
-      }
-    ]
-  },
-  {
-    "username": "user3",
-    "password": "pass3",
-    "name": "Li Wei",
-    "dob": "1992-03-09",
-    "country": "China",
-    "applications": [
-      {
-        "country": "Canada",
-        "province": "British Columbia",
-        "program": "RNIP - West Kootenay (Trail, Castlegar, Rossland, Nelson)",
-        "date": "2024-09-21",
+        "program": "MPNP",
+        "date": "2025-07-15",
         "status": "In Progress"
-      },
-      {
-        "country": "Canada",
-        "province": "Alberta",
-        "program": "RNIP - Claresholm",
-        "date": "2023-07-15",
-        "status": "Submitted"
-      },
-      {
-        "country": "Canada",
-        "province": "Nova Scotia",
-        "program": "Nova Scotia Nominee Program (NSNP)",
-        "date": "2023-03-12",
-        "status": "In Progress"
-      },
-      {
-        "country": "Canada",
-        "province": "Ontario",
-        "program": "Ontario Immigrant Nominee Program (OINP)",
-        "date": "2023-02-12",
-        "status": "Rejected"
       }
     ]
   }
