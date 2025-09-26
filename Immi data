@@ -50,24 +50,5 @@
         "status": "Approved"
       }
     ]
-  
-  
-  },
-  {
-    "username": "johnsmith",
-    "password": "5678",
-    "name": "John Smith",
-    "dob": "1990-03-22",
-    "country": "Philippines",
-    "candidateNumber": "20251234",
-    "applications": [
-      {
-        "country": "Canada",
-        "province": "Manitoba",
-        "program": "MPNP",
-        "date": "2025-07-15",
-        "status": "In Progress"
-      }
-    ]
   }
 ]
