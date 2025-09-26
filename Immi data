@@ -11,14 +11,14 @@
         "country": "Canada",
         "province": "Federal",
         "program": "Express Entry",
-        "date": "2025-09-15",
+        "date": "2024-10-29",
         "status": "Submitted"
       },
       {
         "country": "Canada",
         "province": "Ontario",
         "program": "Ontario Immigrant Nominee Program (OINP)",
-        "date": "2025-05-21",
+        "date": "2024-05-21",
         "status": "In Progress"
       },
       {
@@ -40,14 +40,21 @@
         "province": "Nova Scotia",
         "program": "Atlantic Immigration Program",
         "date": "2024-09-30",
-        "status": "Pending Documents"
+        "status": "Accepted"
       },
       {
         "country": "Canada",
         "province": "Ontario",
         "program": "Caregiver Program",
         "date": "2024-08-05",
-        "status": "Approved"
+        "status": "waiting to open for out of Canada"
+      },
+      {
+        "country": "Canada",
+        "province": "New Brunswik ",
+        "program": "Critical Workers",
+        "date": "2024-06-10",
+        "status": "Waiting for EOI"
       }
     ]
   }
