@@ -56,6 +56,66 @@
         "date": "2024-06-10",
         "status": "Waiting for EOI"
       }
+    ],
+    [
+  {
+    "username": "Rimple",
+    "password": "Rimple123",
+    "name": "Rimpledeep Kaur",
+    "dob": "1990-01-03",
+    "country": "India",
+    "candidateNumber": "87452325",
+    "applications": [
+      {
+        "country": "Canada",
+        "province": "Federal",
+        "program": "Express Entry",
+        "date": "2024-10-29",
+        "status": "Submitted"
+      },
+      {
+        "country": "Canada",
+        "province": "Ontario",
+        "program": "Ontario Immigrant Nominee Program (OINP)",
+        "date": "2024-05-21",
+        "status": "In Progress"
+      },
+      {
+        "country": "Canada",
+        "province": "Ontario",
+        "program": "RNIP - Timmins",
+        "date": "2025-01-10",
+        "status": "Under Review"
+      },
+      {
+        "country": "Canada",
+        "province": "British Columbia",
+        "program": "British Columbia Provincial Nominee Program (BC PNP)",
+        "date": "2024-12-18",
+        "status": "Submitted"
+      },
+      {
+        "country": "Canada",
+        "province": "Nova Scotia",
+        "program": "Atlantic Immigration Program",
+        "date": "2024-09-30",
+        "status": "Accepted"
+      },
+      {
+        "country": "Canada",
+        "province": "Ontario",
+        "program": "Caregiver Program",
+        "date": "2024-08-05",
+        "status": "waiting to open for out of Canada"
+      },
+      {
+        "country": "Canada",
+        "province": "New Brunswik ",
+        "program": "Critical Workers",
+        "date": "2024-06-10",
+        "status": "Waiting for EOI"
+      }
     ]
   }
 ]
+ 
