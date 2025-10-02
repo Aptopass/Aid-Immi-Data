@@ -47,16 +47,63 @@
         "province": "Ontario",
         "program": "Caregiver Program",
         "date": "2024-08-05",
-        "status": "waiting to open for out of Canada"
+        "status": "Waiting to open for out of Canada"
       },
       {
         "country": "Canada",
-        "province": "New Brunswik ",
+        "province": "New Brunswick",
         "program": "Critical Workers",
         "date": "2024-06-10",
         "status": "Waiting for EOI"
       }
     ]
+  },
+  {
+    "username": "Amitsharma",
+    "password": "AmitPass456",
+    "name": "Amit Sharma",
+    "dob": "1988-07-15",
+    "country": "India",
+    "candidateNumber": "98765432",
+    "applications": [
+      {
+        "country": "Canada",
+        "province": "Alberta",
+        "program": "Alberta Immigrant Nominee Program (AINP)",
+        "date": "2024-11-01",
+        "status": "Submitted"
+      },
+      {
+        "country": "Canada",
+        "province": "Quebec",
+        "program": "Quebec Skilled Worker Program",
+        "date": "2024-07-20",
+        "status": "In Progress"
+      }
+    ]
+  },
+  {
+    "username": "SophiaL",
+    "password": "Sophia789",
+    "name": "Sophia Lee",
+    "dob": "1992-03-22",
+    "country": "Philippines",
+    "candidateNumber": "45678912",
+    "applications": [
+      {
+        "country": "Canada",
+        "province": "Manitoba",
+        "program": "Manitoba Provincial Nominee Program (MPNP)",
+        "date": "2024-10-15",
+        "status": "Under Review"
+      },
+      {
+        "country": "Canada",
+        "province": "Federal",
+        "program": "Federal Skilled Worker Program",
+        "date": "2024-08-10",
+        "status": "Approved"
+      }
+    ]
   }
 ]
- 
